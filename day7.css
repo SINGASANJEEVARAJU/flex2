@@ -1,0 +1,53 @@
+#raju{
+    background-color: rgb(197, 23, 23);
+    width: 100% 50dvw;
+    height: 90vh;
+    padding: 20px;
+}
+#karna{
+    background-color: rgb(255, 240, 242);
+    width: 100%50vw;
+    height:40vh ;
+    
+}
+h1{
+    color: aqua;
+    display: inline;
+}
+h4{
+    color: black;
+    float: right;
+}
+#a{
+    font-size: 10px;
+    color: seagreen;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: space-around;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;margin-top: 20px;
+    flex-direction: column;
+}
+
+
+.b{
+    float: right;
+    color: darkgreen;
+    font-size: 30px;
+   
+}
+img{
+    border-radius:50px;
+    background-color: aqua;
+    width: 80px;
+    height: 60px;
+  
+
+}
